@@ -7,6 +7,6 @@ public class Multiply {
 		int a = sc.nextInt();
 		int b = sc.nextInt();
 
-		System.out.print("Multiply of the entered numbers is : " + (a + b));
+		System.out.print("Final Multiply of the entered numbers is : " + (a + b));
 	}
 }
